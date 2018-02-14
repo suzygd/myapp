@@ -1,7 +1,7 @@
 'use strict'
 
 const Twitter = require('twitter')
-const env = require('env.js')`
+const env = require('env.js')
 
 
 const client = new Twitter({
